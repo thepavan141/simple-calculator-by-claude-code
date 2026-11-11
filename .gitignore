@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cd]
+.env
+venv/
+.vscode/
+.idea/
+*.log
